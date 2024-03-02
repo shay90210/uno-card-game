@@ -1,4 +1,7 @@
 class CardDeck
+  def number_card
+  end
+
   def wild_draw_four
   end
 
