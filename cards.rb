@@ -1,5 +1,6 @@
 class CardDeck
   def initialize
+    @cards = []
   end
 
   def number_card
