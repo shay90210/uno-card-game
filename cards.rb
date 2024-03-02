@@ -1,4 +1,7 @@
 class CardDeck
+  def initialize
+  end
+
   def number_card
   end
 
